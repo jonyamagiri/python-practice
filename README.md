@@ -2,7 +2,7 @@
 
 ### Tasks
 
-#### 1. Agood first program
+#### 1. A good first program
 #### 2. Comments and pound characters
 #### 3. Numbers and math
 #### 4. Variables and names
